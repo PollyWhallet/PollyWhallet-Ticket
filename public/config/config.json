@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x74Fb4bB8a0DCbC7de085bE782f1b834331C4D0dE",
+  "SCAN_LINK": "https://polygonscan.com/address/0x74Fb4bB8a0DCbC7de085bE782f1b834331C4D0dE",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "PollyWhallet Ticket",
+  "SYMBOL": "PWT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 175000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pollywhallet",
+  "SHOW_BACKGROUND": true
+}
